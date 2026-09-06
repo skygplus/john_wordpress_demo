@@ -85,13 +85,13 @@ docker compose ps
 If you set:
 
 ```env
-WORDPRESS_PORT=8080
+WORDPRESS_PORT=8081
 ```
 
 open:
 
 ```text
-http://localhost:8080
+http://localhost:8081
 ```
 
 ### Complete Bash sequence
